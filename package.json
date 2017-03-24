@@ -1,0 +1,18 @@
+{
+  "name": "fireplace",
+  "version": "1.0.0",
+  "description": "it controls my fireplace with alexa",
+  "main": "app.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7",
+    "moment": "^2.18.1",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andrew.grahamg@gmail.com",
+  "license": "ISC"
+}
